@@ -10,4 +10,4 @@ function fullName (firstName, lastName) {
 
 module.exports = fullName
 
-console.log(fullName("Mario", "Rossi"))
+// console.log(fullName("Mario", "Rossi"))

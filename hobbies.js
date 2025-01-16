@@ -7,4 +7,4 @@ function hobbies (hobbyOne, hobbyTwo, hobbyThree) {
 
 module.exports = hobbies
 
-console.log(hobbies("coding", "tv", "games"))
+// console.log(hobbies("coding", "tv", "games"))

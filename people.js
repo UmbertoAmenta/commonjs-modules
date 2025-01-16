@@ -7,14 +7,9 @@ const hobbies = require("./hobbies.js")
 
 function people () {
     return {
-        fullName,
-        hobbies,
+        fullName: fullName("Mario", "Rossi"),
+        hobbies: hobbies("coding", "tv", "games"),
     }
 }
 
-
-
-// NON HO FINITO
-
-
-// console.log(people())
+console.log(people())
